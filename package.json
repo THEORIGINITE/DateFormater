@@ -1,0 +1,21 @@
+{
+  "name": "dateformator",
+  "version": "1.0.0",
+  "description": "format your date as Monday , 5th Septmber",
+  "main": "DateJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+    "type": "module"
+  ,
+  "keywords": [
+    "date",
+    "formater",
+    "date",
+    "formatdate",
+    "format"
+  ],
+  "author": "xenon",
+  "license": "ISC"
+}
